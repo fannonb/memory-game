@@ -1,0 +1,34 @@
+[
+
+    {
+        "src" : "/fruits/grapes.svg",
+        "matched": false
+    },
+    
+    {
+        "src" : "/fruits/mango.svg",
+        "matched": false
+    },
+
+     {
+        "src" : "/fruits/orange.svg",
+        "matched": false
+    },
+
+     {
+        "src" : "/fruits/pineapple.svg",
+        "matched": false
+    },
+
+    {
+        "src" : "/fruits/strawberry.svg",
+        "matched": false
+    },
+
+    {
+        "src" : "/fruits/watermelon.svg",
+        "matched": false
+    }
+
+
+]
